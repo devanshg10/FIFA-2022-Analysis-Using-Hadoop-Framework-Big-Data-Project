@@ -69,6 +69,7 @@ Raw Dataset (CSV) → HDFS → MapReduce Processing → Processed Data → Hive 
 ├── mapper.py                  # MapReduce Mapper - extracts nationality & overall rating
 ├── reducer.py                 # MapReduce Reducer - calculates average rating per nationality
 ├── FIFA22_official_data.csv   # Official FIFA 22 dataset (16,710 players)
+├── Problem_Statments.pdf      # Problem Statement of the project
 ├── Project-Report.pdf         # Full project report
 └── README.md                  # This file
 ```
