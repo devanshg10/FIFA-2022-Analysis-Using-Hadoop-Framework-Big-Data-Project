@@ -1,7 +1,5 @@
 # FIFA-2022-Analysis-Using-Hadoop-Framework-Big-Data-Project
 
-# FIFA 22 Player Analysis using Hadoop - Big Data Project
-
 ## Babu Banarasi Das University
 
 **Course:** Big Data  
