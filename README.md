@@ -2,7 +2,7 @@
 
 ## Babu Banarasi Das University
 
-**Subject:** Big Data Fundamentals
+**Subject:** Big Data
 **Submitted To:** Mr. Vikash (IBM)  
 **Submitted By:**  
 - Krishna Verma (1240258236)  
