@@ -2,8 +2,8 @@
 
 ## Babu Banarasi Das University
 
-**Subject:** Big Data
-**Submitted To:** Mr. Vikash (IBM)  
+**Subject:** Big Data Fundmental<br>
+**Submitted To:** Mr. Vikash (IBM) <br>
 **Submitted By:**  
 - Krishna Verma (1240258236)  
 - Devansh Gupta (1240258159)  
