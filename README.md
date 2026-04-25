@@ -1,8 +1,8 @@
 # FIFA-2022-Analysis-Using-Hadoop-Framework-Big-Data-Project
 
-## Babu Banarasi Das University
+## Babu Banarasi Das University -School of Computer Applications
 
-**Subject:** Big Data Fundmental<br>
+**Subject:** Big Data Fundmentals<br>
 **Submitted To:** Mr. Vikash (IBM) <br>
 **Submitted By:**  
 - Krishna Verma (1240258236)  
